@@ -1,5 +1,6 @@
-/*A linked list is a data structure that consists of elements, each of which stores a reference to the next.
-Write a function prinList(list) that returns linked list elements by order*/
+/*A linked list is a data structure that consists of elements,
+  each of which stores a reference to the next.
+  Write the function prinList(list) that returns linked list elements by order*/
 
 let list = {
   value: 1,

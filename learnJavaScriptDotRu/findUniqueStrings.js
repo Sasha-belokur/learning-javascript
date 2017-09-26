@@ -1,8 +1,8 @@
-/*Write a function unique (arr), that returns an array containing only the unique elements of arr.*/
+/*Write the function unique (arr), that returns 
+  an array containing only the unique elements of arr.*/
 
 let strings = ["кришна", "кришна", "харе", "харе",
-  "харе", "харе", "кришна", "кришна", "8-()"
-];
+               "харе", "харе", "кришна", "кришна", "8-()"];
 
 findUniqueStrings(strings)
 

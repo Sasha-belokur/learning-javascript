@@ -1,4 +1,5 @@
-/*Write a function camelize(str), that converts string 'my-short-string' into 'myShortString'*/
+/*Write the function camelize(str), 
+  that converts string 'my-short-string' into 'myShortString'*/
 
 camelize("background-color") // 'backgroundColor';
 camelize("list-style-image") // 'listStyleImage';
